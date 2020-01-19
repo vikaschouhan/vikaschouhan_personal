@@ -48,7 +48,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: darkslategrey;
 }
 
 .list-social-icons a .fa-lg {
@@ -88,7 +88,7 @@ h2 {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
-	filter: grayscale(100%);
+    filter: grayscale(40%);
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -136,7 +136,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-image: linear-gradient(to bottom right, black, gray);
+  background-image: linear-gradient(to bottom right, darkslategrey, white);
 }
 
 .text-primary {
