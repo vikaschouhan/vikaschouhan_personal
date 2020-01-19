@@ -7,10 +7,11 @@ theme = "hugo-resume"
     firstName = "Vikas"
     lastName = "Chouhan"
     phone = "+919611663497"
-    contactNote = "Dev Tools Engineer"
+    phone_ex = "+91-9611663497"
+    contactNote = "Software Architect"
     profileImage = "img/profile-pic.jpg"
     email = "presentisgood@gmail.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    description = "Software/AI engineer"
     favicon = "/favicon.ico"
     # what sections
     showSkills = true
@@ -24,26 +25,9 @@ theme = "hugo-resume"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/vikas-chouhan-4a36829/"
 
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
-
-[[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
-
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "keybase"
-
-[params.google.analytics]
-    trackerID = "XX-123446-01"
+    link = "https://github.com/vikaschouhan/"
