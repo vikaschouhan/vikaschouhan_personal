@@ -1,20 +1,26 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Design Engineer",
+        "company":"Freescale Semiconductor",
+        "summary":"Worked as infrastructure tools developer for post silicon validation.",
+        "range":"July 2008 - June 2011"
+    },
+	{
+		"role":"Sr. Design Engineer",
+		"company":"Freescale Semiconductor",
+		"summary":"Took ownership for post silicon validation for ",
+		"range":"July 2011 - April 2017"
+	},
+    {
+        "role":"Staff Enginner",
+        "company":"ARM Embedded Technologies Pvt Ltd",
+        "summary":"Partner support enabling activities. Working with ARM partners to make their product ARM compliant.",
+        "range":"May 2017 - March 2018"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Cofounder & Engineering head",
+        "company":"Nurithm Labs Pvt Ltd",
+        "summary":"Leading Engineering efforts for Nurithm Labs Pvt Ltd",
+        "range":"April 2018 - Present"
     }
 ]

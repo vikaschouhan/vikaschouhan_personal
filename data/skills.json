@@ -1,32 +1,30 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+	  "grouping":"Overview",
+	  "skills":["Software architecture design","Embedded Systems","AI/Machine Learning"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Hardware Architecture",
+      "skills":[ "ARM64", "PowerPC"]
   },
   {
-      "grouping":"Data Management",
+      "grouping":"Languages & Tools",
+      "skills":[ "C","Python","Git","Linux","Bash","Perl","Excel"]
+  },
+  {
+      "grouping":"Platforms",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+		  {"name":"Pandas", "link":"https://pandas.pydata.org/"},
+		  {"name":"Tensorflow (1.x & 2.x)", "link":"https://www.tensorflow.org/"},
+		  {"name":"Scikit-learn", "link":"https://scikit-learn.org/"}
+	  ]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
           {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Google Cloud","link":"https://cloud.google.com"}
       ]
   }
 ]
