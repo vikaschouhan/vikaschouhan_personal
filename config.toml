@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Vikas Chouhan"
 theme = "hugo-resume"
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [params]
     firstName = "Vikas"
     lastName = "Chouhan"
