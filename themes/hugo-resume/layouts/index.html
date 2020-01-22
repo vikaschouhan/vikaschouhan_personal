@@ -21,6 +21,12 @@
    {{ if .Site.Params.showEducation }}
        {{ partial "portfolio/education.html" . }}
    {{ end }}
+   {{ if .Site.Params.showMisc }}
+      {{ with .Site.GetPage "section" "projects/miscellaneous" }}
+	     {{ .Scratch.Set "sectionId" "misc" }}
+	     {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
    {{ if .Site.Params.showBlog }}
       {{ with .Site.GetPage "section" "blog" }}
          {{ .Scratch.Set "sectionId" "blog" }}

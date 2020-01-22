@@ -22,6 +22,7 @@ theme = "hugo-resume"
     showPublications = true
     showExperience = true
     showEducation = true
+    showMisc = true
 
     showQr = true
 
