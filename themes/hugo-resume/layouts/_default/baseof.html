@@ -32,7 +32,7 @@
       {{ .Content }}
     {{ end }}
 
-    <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
+	<span style="color: #999999; font-size: 60%;">Power by <a href="https://gohugo.io">Hugo</a> using <a href="https://themes.gohugo.io/hugo-resume/"> hugo-resume</a> theme. <br/><p>&copy; 2020 Vikas Chouhan<p></span>
     {{ with $.GitInfo }}{{ with $.Site.Params.gitCommitPrefix }} | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="{{ . }}/{{ $.GitInfo.AbbreviatedHash }}" title="log: {{ $.GitInfo.Subject }}">{{ $.GitInfo.AbbreviatedHash }}</a>{{ end }}{{end}}
   </div>
   <!-- Bootstrap core JavaScript -->
