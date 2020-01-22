@@ -9,4 +9,4 @@
   "featured":true
 }
 
-This project was engineered as part of my role at Nurithm Labs Pvt Ltd. We have developed an AI based skin disease diagnosis app which can detected around 40 different skin disease conditions. It works on visual recognition and uses convolutional neural network models at the backend.
+This project was engineered as part of my role at Nurithm Labs Pvt Ltd. We have developed an AI based skin disease diagnosis app which can detected around 40 different skin disease conditions. It works on visual image recognition and uses models based on convolutional neural network models at it's backend.
