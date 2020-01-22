@@ -1,5 +1,5 @@
 {
-  "title": "gdrive-downloader",
+  "title": "Google Drive Downloader",
   "date": "2018-08-2",
   "image": "/img/gdrive-downloader.png",
   "link": "https://github.com/vikaschouhan/gdrive_downloader",

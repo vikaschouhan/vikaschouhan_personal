@@ -1,5 +1,5 @@
 {
-  "title": "portfolio-analysis",
+  "title": "Portfolio Analysis",
   "date": "2020-01-19",
   "image": "/img/portfolio-analysis.png",
   "link": "https://github.com/vikaschouhan/portfolio_analysis",

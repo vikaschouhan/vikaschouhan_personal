@@ -1,5 +1,5 @@
 {
-  "title": "pirate-scrape",
+  "title": "Batch Torrent Downloader",
   "date": "2019-01-11",
   "image": "/img/pirate-scrape-demo.png",
   "link": "https://github.com/vikaschouhan/piratescrape",

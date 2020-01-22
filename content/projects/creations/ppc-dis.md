@@ -1,5 +1,5 @@
 {
-  "title": "ppc-dis",
+  "title": "PowerPC Assembler/Disassembler",
   "date": "2012-12-12",
   "image": "/img/ppc-dis_2.jpeg",
   "link": "https://sourceforge.net/projects/ppc-dis",
