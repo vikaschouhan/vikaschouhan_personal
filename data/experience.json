@@ -2,25 +2,25 @@
     {
         "role":"Design Engineer",
         "company":"Freescale Semiconductor",
-        "summary":"Worked as infrastructure tools developer for post silicon validation.",
+        "summary":"Worked as an Infrastructure tools developer as part of post silicon validation bringup team. Later on got involved in writing & debugging validation tests for multicore cpus.",
         "range":"July 2008 - June 2011"
     },
 	{
 		"role":"Sr. Design Engineer",
 		"company":"Freescale Semiconductor",
-		"summary":"Took ownership for multicore validation of several PowerPC based SoC cores.",
+		"summary":"Took ownership for multicore validation of several PowerPC based SoC cores. Developing cache coherency and memory consistency tests. Took complete ownership for the development of a multicore POR (power on reset) validation test framework for ARM64 based SoC.",
 		"range":"July 2011 - April 2017"
 	},
     {
         "role":"Staff Enginner",
         "company":"ARM Embedded Technologies Pvt Ltd",
-        "summary":"Partner support enabling activities. Working with ARM partners to make their product ARM compliant.",
+        "summary":"Partner support enabling activities. Worked with ARM partners to make their product ARM compliant. Solving and debugging architecture related issues.",
         "range":"May 2017 - March 2018"
     },
     {
         "role":"Cofounder & Engineering head",
         "company":"Nurithm Labs Pvt Ltd",
-        "summary":"Leading Engineering efforts for Nurithm Labs Pvt Ltd",
+        "summary":"Leading Engineering efforts for Nurithm Labs Pvt Ltd. Driving the technical aspects of the business for development of an AI based skin disease diagnosis application.",
         "range":"April 2018 - Present"
     }
 ]

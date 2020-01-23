@@ -5,11 +5,11 @@
   },
   {
       "grouping":"Hardware Architecture",
-      "skills":[ "ARM64", "PowerPC"]
+      "skills":[ "ARM64", "PowerPC", "Multicore CPUs"]
   },
   {
       "grouping":"Languages & Tools",
-      "skills":[ "C","Python","Git","Linux","Bash","Perl","Excel"]
+      "skills":[ "Python","Git","Linux","Bash","Perl", "C", "Asm"]
   },
   {
       "grouping":"Platforms",
@@ -23,8 +23,7 @@
     "grouping":"Containers & Cloud",
       "skills":[
           {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"}
+          {"name":"AWS","link":"https://aws.amazon.com"}
       ]
   }
 ]
