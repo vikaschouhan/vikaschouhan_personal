@@ -1,7 +1,14 @@
-baseURL = "https://vikaschouhan.com/"
+baseURL = "www.vikaschouhan.com"
 languageCode = "en-us"
 title = "Vikas Chouhan"
 theme = "hugo-resume"
+author = "Vikas Chouhan"
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+[Author]
+    name = "Vikas Chouhan"
 
 [markup.goldmark.renderer]
     unsafe= true

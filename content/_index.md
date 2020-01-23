@@ -1,6 +1,8 @@
 ---
-title: "Home"
-date: 2018-02-10T18:56:13-05:00
+title: "Vikas Chouhan"
+description: "This website showcases my professional life."
+author: "Vikas Chouhan"
+date: 2020-01-10
 sitemap:
   priority : 1.0
 
