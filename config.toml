@@ -1,4 +1,4 @@
-baseURL = "www.vikaschouhan.com"
+baseURL = "https://vikaschouhan.com"
 languageCode = "en-us"
 title = "Vikas Chouhan"
 theme = "hugo-resume"
