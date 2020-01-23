@@ -3,9 +3,7 @@ languageCode = "en-us"
 title = "Vikas Chouhan"
 theme = "hugo-resume"
 author = "Vikas Chouhan"
-
 enableRobotsTXT = true
-canonifyURLs = true
 
 [Author]
     name = "Vikas Chouhan"
