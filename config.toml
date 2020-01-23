@@ -19,7 +19,7 @@ enableRobotsTXT = true
     contactNote = "Software Architect"
     profileImage = "img/profile-pic.jpg"
     email = "presentisgood@gmail.com"
-    description = "Software/AI engineer"
+    description = "Software engineer/Architect with experience in Embedded systems and Machine Learning."
     favicon = "/favicon.ico"
     # what sections
     showSkills = true
