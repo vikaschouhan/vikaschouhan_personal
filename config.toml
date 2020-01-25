@@ -1,6 +1,6 @@
 baseURL = "https://vikaschouhan.com"
 languageCode = "en-us"
-title = "Vikas Chouhan"
+title = "Hi, I am Vikas Chouhan and you have landed on my portfolio website."
 theme = "hugo-resume"
 author = "Vikas Chouhan"
 enableRobotsTXT = true
@@ -19,7 +19,7 @@ enableRobotsTXT = true
     contactNote = "Software Architect"
     profileImage = "img/profile-pic.jpg"
     email = "presentisgood@gmail.com"
-    description = "Software engineer/Architect with experience in Embedded systems and Machine Learning."
+    description = "Software engineer/Architect with experience in Embedded systems and Machine Learning and a knack for solving real problems."
     favicon = "/favicon.ico"
     # what sections
     showSkills = true
