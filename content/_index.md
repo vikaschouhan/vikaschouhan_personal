@@ -1,6 +1,5 @@
 ---
 title: "Vikas Chouhan"
-description: "This website showcases my professional life."
 author: "Vikas Chouhan"
 date: 2020-01-10
 sitemap:

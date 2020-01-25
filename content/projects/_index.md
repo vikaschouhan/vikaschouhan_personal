@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+description: "Project and experiments"
 sitemap:
   priority : 0.9
 ---

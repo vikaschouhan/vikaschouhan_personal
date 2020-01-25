@@ -3,7 +3,7 @@ title: "Automated Electrical Validation of Microprocessor and Shared Memory Subs
 date: 2014-07-31
 pubtype: "Publication"
 featured: true
-description: ""
+description: "Automated Electrical Validation of Microprocessor and Shared Memory Subsystem."
 tags: ["Stress", "Coherency", "Shared Memory", "Cache", "Patterns", "Electrical", "Verification"]
 link: "https://priorart.ip.com/IPCOM/000238081"
 fact: "Interesting little tidbit shown below image on summary and detail page"

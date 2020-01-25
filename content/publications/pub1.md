@@ -3,7 +3,7 @@ title: "Method of Testing Shared Caches/TLB Intervention"
 date: 2015-04-03
 pubtype: "Publication"
 featured: true
-description: ""
+description: "Method of Testing Shared Caches/TLB Intervention"
 tags: ["Multicore", "Stress", "Coherency", "Shared Memory", "Cache", "Microprocessor", "TLB", "Irritator", "Verification"]
 link: "https://priorart.ip.com/IPCOM/000241210"
 fact: "Interesting little tidbit shown below image on summary and detail page"
