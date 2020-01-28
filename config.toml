@@ -1,6 +1,6 @@
 baseURL = "https://vikaschouhan.com"
 languageCode = "en-us"
-title = "Hi, I am Vikas Chouhan and you have landed on my portfolio website."
+title = "Vikas Chouhan"
 theme = "hugo-resume"
 author = "Vikas Chouhan"
 enableRobotsTXT = true

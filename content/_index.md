@@ -1,5 +1,5 @@
 ---
-title: "Hi, I am Vikas Chouhan and you just landed on my website."
+title: "Vikas Chouhan"
 author: "Vikas Chouhan"
 date: 2020-01-10
 sitemap:
