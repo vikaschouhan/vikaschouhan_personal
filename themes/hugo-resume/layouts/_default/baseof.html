@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }}</title>
   {{ partial "seoschema.html" . }}
+  {{ if .Data.Singular }}
+    <meta name="robots" content="noindex">
+  {{ end }}
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:image" content="{{ .Site.Params.profileImage | absURL }}" />
   <meta name="description" content="{{ partial "description.html" . }}">
