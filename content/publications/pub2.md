@@ -4,7 +4,7 @@ date: 2014-07-31
 pubtype: "Publication"
 featured: true
 description: "A method for automated electrical testing of microprocessor subsystem using serveral types of memory bist patterns."
-tags: ["Stress", "Coherency", "Shared Memory", "Cache", "Patterns", "Electrical", "Verification"]
+tags: ["Cache Coherency", "Electrical", "Verification"]
 link: "https://priorart.ip.com/IPCOM/000238081"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

@@ -4,7 +4,7 @@
   "image": "/img/ppc-sim-booke.jpeg",
   "link": "https://github.com/vikaschouhan/ppcsimbooke",
   "description": "An experimental ISS simulator for e500 PowerPC core. It was designed as a fun project to learn the basics of abstract level hardware modelling.",
-  "tags": ["C++", "PowerPC", "GNU", "Opcode", "Mnemonics", "Boost", "Assembly"],
+  "tags": ["C++", "PowerPC"],
   "fact": "",
   "featured":true,
   "weight": 7

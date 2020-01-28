@@ -3,7 +3,7 @@
   "date": "2019-08-2",
   "image": "/img/isic2019.jpeg",
   "description": "Participated in ISIC 2019 Skin Lesion Diagnosis Challenge. Scored in top 5.",
-  "tags": ["AI","Machine Learning", "Python"],
+  "tags": ["Machine Learning", "Python"],
   "fact": "",
   "featured":true
 }

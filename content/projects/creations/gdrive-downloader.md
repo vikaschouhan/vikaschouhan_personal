@@ -4,7 +4,7 @@
   "image": "/img/gdrive-downloader.png",
   "link": "https://github.com/vikaschouhan/gdrive_downloader",
   "description": "A command line utility for downloading data from google drive via their shared links. This was developed as a need to download such files without requiring any user authentication.",
-  "tags": ["Google Drive","Downloader", "Python"],
+  "tags": ["Google Drive", "Python"],
   "fact": "",
   "featured":true,
   "weight" : 3

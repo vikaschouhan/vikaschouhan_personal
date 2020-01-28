@@ -4,7 +4,7 @@
   "image": "/img/portfolio-analysis.png",
   "link": "https://github.com/vikaschouhan/portfolio_analysis",
   "description": "A collection of scripts for downloading asset price data from the web, analysing them and backtesting various trading/investing strategies. It's actually a mish-mash of several utility scripts, I authored out of my own interest in financial markets.",
-  "tags": ["Piratebay","Python", "Torrent"],
+  "tags": ["Python", "Trading"],
   "fact": "",
   "featured":true,
   "weight": 5

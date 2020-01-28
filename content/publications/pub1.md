@@ -4,7 +4,7 @@ date: 2015-04-03
 pubtype: "Publication"
 featured: true
 description: "A method for testing coherency in shared caches and TLB subsystem with true sharing as the underlying stress mechanism."
-tags: ["Multicore", "Stress", "Coherency", "Shared Memory", "Cache", "Microprocessor", "TLB", "Irritator", "Verification"]
+tags: ["Cache Coherency", "Verification"]
 link: "https://priorart.ip.com/IPCOM/000241210"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

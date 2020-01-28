@@ -4,7 +4,7 @@
   "image": "/img/missing-person-demo.png",
   "link": "",
   "description": "An aws/rekognition based prototype webapp for searching missing people. It was developed as a side project to showcase the use and advantages of AI based image recognition system.",
-  "tags": ["AWS Recognition","Php", "Sqlite", "Bootstrap"],
+  "tags": ["PhP"],
   "fact": "",
   "featured":true,
   "weight" : 2

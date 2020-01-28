@@ -4,7 +4,7 @@
   "image": "/img/pirate-scrape-demo.png",
   "link": "https://github.com/vikaschouhan/piratescrape",
   "description": "A collection of scripts for batch downloading of torrents from piratebay.org. It works similar to most of the bittorrent clients, except that being command line based, these scripts can be automated and can immensely help when we have hundreds of torrents to download.",
-  "tags": ["Piratebay","Python", "Torrent"],
+  "tags": ["Piratebay","Python"],
   "fact": "",
   "featured":true,
   "weight": 4

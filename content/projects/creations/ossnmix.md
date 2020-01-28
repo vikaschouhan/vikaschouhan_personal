@@ -4,7 +4,7 @@
   "image": "/img/ossnmix_2.jpeg",
   "link": "https://sourceforge.net/projects/ossnmix",
   "description": "A shell based audio mixer for OSSv4 Linux driver using ncurses. The project after being usable for few years was abandoned due to a lack of need.",
-  "tags": ["C", "Linux", "Ncurses", "Audio", "Mixer", "Shell"],
+  "tags": ["C", "Linux", "Audio"],
   "fact": "",
   "featured":true,
   "weight": 9
