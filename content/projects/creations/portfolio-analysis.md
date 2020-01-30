@@ -3,11 +3,11 @@
   "date": "2020-01-19",
   "image": "/img/portfolio-analysis.png",
   "link": "https://github.com/vikaschouhan/portfolio_analysis",
-  "description": "A collection of scripts for downloading asset price data from the web, analysing them and backtesting various trading/investing strategies. It's actually a mish-mash of several utility scripts, I authored out of my own interest in financial markets.",
+  "description": "A collection of scripts for price data analysis and backtesting technical trading strategies.",
   "tags": ["Python", "Trading"],
   "fact": "",
   "featured":true,
   "weight": 5
 }
 
-A side project related to my interest in asset price analysis and trying to search for profitable strategies. Currently implemented are various kinds of scripts for pulling asset price data from various sources on the web. A backtesting framework for analysing simple strategies is also implemented.
+A hobbyist side project for asset price analysis and research for profitable trading strategies in the market. Currently implemented are a group of scripts for pulling price data from multiple sources on the web. A backtesting framework based on an open source project is curently implemented.
