@@ -31,6 +31,9 @@ enableRobotsTXT = true
 
     showQr = true
 
+[params.google.analytics]
+    trackerID = "UA-159220531-1"
+
 [[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/vikas-chouhan-4a36829/"
